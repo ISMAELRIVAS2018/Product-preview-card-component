@@ -60,7 +60,7 @@ body {
   } 
 }
 
-.producto{
+.producto-hijo{
   font-size: 1.6rem;
   line-height: 1.1;
   padding:2rem 1rem;
@@ -69,7 +69,7 @@ body {
 }
 
 @media (min-width: 768px ) { 
-  .producto{
+  .producto-hijo{
     display: flex;
     justify-content: center;
   }
