@@ -45,13 +45,13 @@ body {
   /* overflow: hidden; */
   
 }
-.producto-padre{
+.producto{
   height: 100vh;
    
 }
 
 @media (min-width: 768px ) {
-  .producto-padre{
+  .producto{
     height: 100vh;
     display: flex;
     align-items: center;
